@@ -1,7 +1,6 @@
 import streamlit as st
 import speech_recognition as sr
 from nltk.chat.util import Chat, reflections
-import os
 
 # Chatbot data
 data = [
